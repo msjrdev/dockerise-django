@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+dockerise_django/
 
 # Spyder project settings
 .spyderproject
